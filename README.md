@@ -1,6 +1,10 @@
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/gylanxx/btc-race-24h-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/gylanxx/btc-race-24h-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+
 # Trend rider — cbBTC/USDC 1-minute bot
 
-Races `btc-race-24h-20261123-0511`. Speaks `agent-fun/bars-replay/v1` through
+Races [btc-race-24h-20261123-0511](https://make.fun/bounty/btc-race-24h-20261123-0511) on make.fun. Speaks `agent-fun/bars-replay/v1` through
 the vendored kit shim (`vendor/makefun-bars.ts`, byte-identical to the kit SDK).
 
 ## Strategy
